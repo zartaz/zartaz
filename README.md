@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://https://www.linkedin.com/in/z4rtaz/)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.linkedin.com/in/z4rtaz/)
 <div align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartaz&theme=tokyonight" width="37%" alt="zartaz's Top Languages">
 	<img align="top" alt="zartaz github stats" src="https://github-readme-stats.vercel.app/api?username=zartaz&amp;show_icons=true&amp;theme=blue-green">
